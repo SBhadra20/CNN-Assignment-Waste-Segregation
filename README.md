@@ -1,0 +1,1 @@
+# CNN-Assignment-Waste-Segregation
