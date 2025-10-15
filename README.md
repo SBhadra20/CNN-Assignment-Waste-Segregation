@@ -24,9 +24,6 @@ Training Outcomes:
 🌍 Key Takeaways
 
 - Image preprocessing (resizing, normalization) was crucial for consistent model input.
-
-Class balancing and proper callbacks significantly improved the model’s stability.
-
-With additional data and augmentation, the model’s performance could exceed 85–90% accuracy.
-
-The approach demonstrates how deep learning can contribute to sustainable waste management by automating the segregation process efficiently.
+- Class balancing and proper callbacks significantly improved the model’s stability.
+- With additional data and augmentation, the model’s performance could exceed 85–90% accuracy.
+- The approach demonstrates how deep learning can contribute to sustainable waste management by automating the segregation process efficiently.
